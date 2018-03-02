@@ -1,0 +1,6 @@
+C:\Users\Han\Documents\Visual Studio 2013\Projects\spkt\QuanLyShopBanHang\QuanLyShop\bin\Debug\QuanLyShop.exe.config
+C:\Users\Han\Documents\Visual Studio 2013\Projects\spkt\QuanLyShopBanHang\QuanLyShop\obj\Debug\QuanLyShop.csprojResolveAssemblyReference.cache
+C:\Users\Han\Documents\Visual Studio 2013\Projects\spkt\QuanLyShopBanHang\QuanLyShop\bin\Debug\QuanLyShop.exe
+C:\Users\Han\Documents\Visual Studio 2013\Projects\spkt\QuanLyShopBanHang\QuanLyShop\bin\Debug\QuanLyShop.pdb
+C:\Users\Han\Documents\Visual Studio 2013\Projects\spkt\QuanLyShopBanHang\QuanLyShop\obj\Debug\QuanLyShop.exe
+C:\Users\Han\Documents\Visual Studio 2013\Projects\spkt\QuanLyShopBanHang\QuanLyShop\obj\Debug\QuanLyShop.pdb
